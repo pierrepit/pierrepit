@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my profile ! I'm Pierre, a JS developer specialized on the MERN Stack.
+
 
 <!--
 **pierrepit/pierrepit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
