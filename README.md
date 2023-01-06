@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js and TypeScript**
 
-- 💬 Ask me about **React 16.8**
+- 💬 Ask me about **React 16.8 & the hooks**
 
 - 📫 How to reach me **pierrepitoiset77@gmail.com**
 
