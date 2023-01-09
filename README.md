@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
-<h3 align="center">a JS developer specialized on the MERN Stack.</h3>
+<h3 align="center">a JS fullstack/front developer.</h3>
 
-- 🔭 I’m currently working on **a corporate API that I can't show :(**
+- 🔭 I’m currently working on **my personal projects**
 
-- 🌱 I’m currently learning **Vue.js and TypeScript**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **React 16.8 & the hooks**
 
