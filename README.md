@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">a JS fullstack/front developer.</h3>
 
-https://github-readme-stats.vercel.app/api?username=pierrepit
+https://github-readme-stats.vercel.app/api?username=pierrepit&show_icons=true
 
 - 🔭 I’m currently working on **my personal projects**
 
