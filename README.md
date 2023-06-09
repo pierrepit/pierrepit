@@ -3,11 +3,11 @@
 <h1>Hi, I'm Pierre</h1>
 <h3>a JS fullstack/front developer.</h3>
 
-- 🔭 I’m currently working on **my personal projects**
+- 🔭 I’m currently working on **the Office National des Forêts website**
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Python, Pyramid, pyAms, ZODB, SQL, SQLAlchemy, Electric Search...**
 
-- 💬 Ask me about **React 16.8 & the hooks**
+- 💬 Ask me about **React 16.8+**
 
 - 📫 How to reach me **pierrepitoiset77@gmail.com**
 
